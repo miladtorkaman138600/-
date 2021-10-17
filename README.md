@@ -18,7 +18,7 @@
   {
     "mode": "4",
     "imag": "https://s4.uupload.ir/filelink/8OHYFF6gUImG_48df0cd121/vid_20211011_021818_538_wmdj.mp4",
-    "text": '''شاد همراه
-#ویدیو.طنز'''
+    "text": "شاد همراه
+#ویدیو.طنز"
   }
 ]
