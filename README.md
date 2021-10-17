@@ -17,12 +17,12 @@
   },
   {
     "mode": "4",
-    "imag": "https://s4.uupload.ir/filelink/jhSEskLyZkjM_a1b11d822c/vid_20211011_021457_858_q13.mp4",
+    "imag": "https://s4.uupload.ir/filelink/wDa7x8PpgkOO_f4b144b904/vid_20211011_020955_732_nbcv.mp4",
     "text": "شاد همراه_#ویدیو.طنز"
   },
   {
     "mode": "4",
-    "imag": "https://s4.uupload.ir/filelink/jhSEskLyZkjM_a1b11d822c/vid_20211011_021457_858_q13.mp4",
+    "imag": "https://s4.uupload.ir/filelink/wDa7x8PpgkOO_f4b144b904/vid_20211011_020955_732_nbcv.mp4",
     "text": "شاد همراه_#ویدیو.طنز"
   }
 ]
