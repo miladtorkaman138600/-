@@ -17,6 +17,7 @@
   },
   {
     "mode": "4",
-    "imag": "https://s4.uupload.ir/filelink/9CSE3WwEYOKc_1381977086/vid_20211011_020955_732_nbcv.mp4"
+    "imag": "https://s4.uupload.ir/filelink/8OHYFF6gUImG_48df0cd121/vid_20211011_021818_538_wmdj.mp4",
+    "text": "شاد همرا #ویدیو.طنز"
   }
 ]
